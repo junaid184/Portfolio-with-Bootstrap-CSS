@@ -13,7 +13,7 @@ const Work = () => {
                 <p className="mb-0 tm-site-subtitle">A web developer.</p>
             </header>
             <section >
-            <h1 className="tm-site-title">HTML, CSS/Bootstrap &#38; JavaScript Project</h1>
+            <h1 className="tm-site-title">HTML, CSS/Bootstrap &#38; JavaScript Projects</h1>
             <div className="projects">
                 <div class="card">
                     <img src={Quiz} class="card-img-top" alt="..."/>
@@ -48,7 +48,7 @@ const Work = () => {
                     </div>
                 </div>
             </div>
-            <h1 className="tm-site-title">ReactJS, CSS/Bootstrap &#38; Project</h1>
+            <h1 className="tm-site-title">ReactJS &#38;  CSS/Bootstrap Projects</h1>
             <div className="projects">
                 <div class="card">
                     <img src={SocialMediaCard} class="card-img-top" alt="..."/>
